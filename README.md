@@ -36,7 +36,7 @@ Este repositorio contiene una conjunto de problemas tomados del curso en [*Méto
 | Los amigos de mis amigos son mis amigos | [Enlace](Algorithms/Graphs/amigos.pdf) | [Enlace](Algorithms/Graphs/amigos) |
 | Navegando sin teclado | [Enlace](Algorithms/Graphs/teclado.pdf)|[Enlace](Algorithms/Graphs/teclado) |
 | Ovejas negras  | [Enlace](Algorithms/Graphs/ovejas.pdf) | [Enlace](Algorithms/Graphs/ovejas) |
-| Petroleros hundidos | [Enlace](Algorithms/Graphs/petroleros.pdf) | [Enlace](Algorithms/Graphs/petroleros.cpp) |
+| Petroleros hundidos | [Enlace](Algorithms/Graphs/petroleros.pdf) | [Enlace](Algorithms/Graphs/petroleros) |
 | Recorriendo el archipiélago en bicicleta  | [Enlace](Algorithms/Graphs/bici.pdf) | [Enlace](Algorithms/Graphs/bici) |
 | Repartiendo paquetes | [Enlace](Algorithms/Graphs/paquetes.pdf) | [Enlace](Algorithms/Graphs/paquetes) |
 
