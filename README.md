@@ -44,12 +44,12 @@ Este repositorio contiene una conjunto de problemas tomados del curso en [*Méto
 
 | Problema  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Enunciado           | Solución           |
 | ------------- |:-------------:| :-------------:|
-| Agujeros en la manguera | [Enlace](Algorithms/GreedyAlgorithms/manguera.pdf) | [Enlace](Algorithms/GreedyAlgorithms/manguera) |
-| Carreras de coches | [Enlace](Algorithms/GreedyAlgorithms/coches.pdf) | [Enlace](Algorithms/GreedyAlgorithms/coches) |
-| El alienígena infiltrado  | [Enlace](Algorithms/GreedyAlgorithms/alienigena.pdf) | [Enlace](Algorithms/GreedyAlgorithms/alienigena) |
+| Agujeros en la manguera | [Enlace](Algorithms/GreedyAlgorithms/manguera.pdf) | [Enlace](Algorithms/GreedyAlgorithms/manguera.cpp) |
+| Carreras de coches | [Enlace](Algorithms/GreedyAlgorithms/coches.pdf) | [Enlace](Algorithms/GreedyAlgorithms/coches.cpp) |
+| El alienígena infiltrado  | [Enlace](Algorithms/GreedyAlgorithms/alienigena.pdf)|[Enlace](Algorithms/GreedyAlgorithms/alienigena.cpp)|
 | ¡En primera línea de playa! |[Enlace](Algorithms/GreedyAlgorithms/playa.pdf)|[Enlace](Algorithms/GreedyAlgorithms/playa)|
-| Esquiando en Alaska | [Enlace](Algorithms/GreedyAlgorithms/esquiando.pdf) | [Enlace](Algorithms/GreedyAlgorithms/esquiando) |
-| Los broncos de Boston | [Enlace](Algorithms/GreedyAlgorithms/broncos.pdf) | [Enlace](Algorithms/GreedyAlgorithms/broncos) |
+| Esquiando en Alaska | [Enlace](Algorithms/GreedyAlgorithms/esquiando.pdf) | [Enlace](Algorithms/GreedyAlgorithms/esquiando.cpp) |
+| Los broncos de Boston | [Enlace](Algorithms/GreedyAlgorithms/broncos.pdf) | [Enlace](Algorithms/GreedyAlgorithms/broncos.cpp) |
 | Maratón de cine de terror  | [Enlace](Algorithms/GreedyAlgorithms/cine.pdf) | [Enlace](Algorithms/GreedyAlgorithms/cine) |
 | Semana de la informática | [Enlace](Algorithms/GreedyAlgorithms/informatica.pdf) | [Enlace](Algorithms/GreedyAlgorithms/informatica) |
 
