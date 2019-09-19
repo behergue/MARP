@@ -64,7 +64,7 @@ Este repositorio contiene una conjunto de problemas tomados del curso en [*Méto
 | Seis grados de diferencia | [Enlace](Algorithms/DynamicProgramming/grados.pdf) | [Enlace](Algorithms/DynamicProgramming/grados) |
 | Subsecuencia común más larga | [Enlace](Algorithms/DynamicProgramming/subsecuencia.pdf) | [Enlace](Algorithms/DynamicProgramming/subsecuencia) |
 | Tiro al patíndromo | [Enlace](Algorithms/DynamicProgramming/patindromo.pdf) | [Enlace](Algorithms/DynamicProgramming/patindromo) |
-| Varillas1 | [Enlace](Algorithms/DynamicProgramming/varillas.pdf) | [Enlace](Algorithms/DynamicProgramming/varillas1) |
+| Varillas1 | [Enlace](Algorithms/DynamicProgramming/varillas.pdf) | [Enlace](Algorithms/DynamicProgramming/varillas) |
 | Varillas2 | [Enlace](Algorithms/DynamicProgramming/varillas.pdf) | [Enlace](Algorithms/DynamicProgramming/varillas2) |
 
 ### Ramificación y poda / Branch and bound
