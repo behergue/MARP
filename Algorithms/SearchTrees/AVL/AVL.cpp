@@ -1,4 +1,4 @@
-//MARP10, Beatriz Herguedas Pinedo
+//Beatriz Herguedas Pinedo
 
 #include <fstream>
 #include <iostream>
