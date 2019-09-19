@@ -1,4 +1,4 @@
-// Grupo DG11, Beatriz Herguedas Pinedo
+//Beatriz Herguedas Pinedo
 
 #include <fstream>
 #include <iostream>
