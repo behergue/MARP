@@ -10,7 +10,7 @@ Este repositorio contiene una conjunto de problemas tomados del curso en [*Méto
 
 | Problema &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Solución           |
 | ------------- |:-------------:|
-| Encontrar el k-ésimo elemento de un árbol AV L      | [Enlace](Algorithms/SearchTrees/kesimo) |
+| Encontrar el k-ésimo elemento de un árbol AVL       | [Enlace](Algorithms/SearchTrees/kesimo) |
 | ¿Es un árbol AVL?                                   | [Enlace](Algorithms/SearchTrees/AVL) |
 | ¿Está el árbol equilibrado?                         | [Enlace](Algorithms/SearchTrees/equilibrado) |
 | Rango de claves en un árbol binario de búsqueda     | [Enlace](Algorithms/SearchTrees/rango) |
